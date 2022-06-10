@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋. I'm Nishant Kadivar
 
-- :zap:I love creative thinking, programming, finance and commodity trading.
-- 🌱 I try to improve everyday by 1%.
+- :zap:I love creative thinking, programming and finance.
 - :computer: I sharpen my coding skill at : 
   - [Hackerrank](https://www.hackerrank.com/nishant_m2) 
   -	[GeeksForGeeks](https://auth.geeksforgeeks.org/user/kadinish/profile)
@@ -14,3 +13,5 @@
   
   
   [![Nishant's status](https://github-readme-stats.vercel.app/api?username=Nishant1997&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1997)](https://github.com/anuraghazra/github-readme-stats)
