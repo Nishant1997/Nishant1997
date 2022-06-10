@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Nishant1997/Nishant1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :zap:I love creative thinking, programming, finance and commodity trading.
+- 🌱 I try to improve everyday by 1%.
+- :computer: I sharpen my coding skill at : 
+  - [Hackerrank](https://www.hackerrank.com/nishant_m2) 
+  -	[GeeksForGeeks](https://auth.geeksforgeeks.org/user/kadinish/profile)
+- :sparkles: I am currently learning 
+    - Microservices using Spring and it's libraries.
+- :bulb: I share my kwoledge through my blogs and tweets.
+- 📫 How to reach me: 
+  - [LinkedIn](https://www.linkedin.com/in/nishant-kadivar-312758107/)
+  - [Twitter](https://twitter.com/kadivar_nishant) 
+  
+  
+  [![Nishant's status](https://github-readme-stats.vercel.app/api?username=Nishant1997&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
