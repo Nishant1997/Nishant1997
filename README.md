@@ -1,4 +1,73 @@
-### Hi there 👋. I'm Nishant Kadivar
+# Hi there 👋 I'm Nishant Kadivar
+
+🚀 **Full Stack Developer | 6+ Years Experience**
+
+I specialize in building scalable backend systems and full-stack web applications using modern technologies.
+
+---
+
+## 🧠 About Me
+- 💼 Full Stack Developer with strong backend expertise  
+- ⚙️ Working with **Java, Spring Boot, Microservices**  
+- ☁️ Experience with **Cloud & Distributed Systems**  
+- 📈 Interested in **System Design, Performance Optimization & Scalable Architectures**  
+- ✍️ I share knowledge through blogs and tech discussions  
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:**  
+Java, Spring Boot, Microservices, REST APIs  
+
+**Frontend:**  
+React (or update if different), JavaScript, HTML, CSS  
+
+**Database:**  
+MySQL, MongoDB  
+
+**Tools & Cloud:**  
+Docker, Git, Azure (update if needed), CI/CD  
+
+---
+
+## 🔥 Featured Projects
+
+### 🧩 Microservices Architecture System
+- Built scalable microservices using Spring Boot  
+- Implemented service-to-service communication  
+- Added fault tolerance and retry mechanisms  
+
+---
+
+### 🌐 Full Stack Web Application
+- Developed complete frontend + backend system  
+- REST APIs with secure authentication  
+- Responsive UI and optimized performance  
+
+---
+
+### 📊 Data Processing / Backend System
+- Designed high-volume data ingestion system  
+- Handled large-scale JSON processing  
+- Focus on performance and memory optimization  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/nishant-kadivar-312758107/  
+- 🐦 Twitter: https://twitter.com/kadivar_nishant  
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Nishant1997&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1997)
+
+---
+
+⭐️ *Always learning, always building.*### Hi there 👋. I'm Nishant Kadivar
 
 - :zap:I love creative thinking, programming and finance.
 - :computer: I sharpen my coding skill at : 
