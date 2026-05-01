@@ -2,7 +2,98 @@
 
 🚀 **Full Stack Developer | 6+ Years Experience**
 
-I specialize in building scalable backend systems and full-stack web applications using modern technologies.
+I specialize in building scalable backend systems and full-stack w# Hi 👋 I'm Nishant
+
+💻 Full Stack Developer (Java + Spring Boot)  
+⚙️ Building scalable systems & microservices  
+🚀 Interested in system design & high-performance backends  
+
+---
+
+## 🛠️ Tech I Use
+Java • Spring Boot • Microservices • REST APIs  
+React • JavaScript  
+Docker • Azure • MySQL • MongoDB  
+
+---
+
+## ⚡ Cool Stuff I've Built
+
+🔹 **Microservices System**  
+→ Fault-tolerant services with retries & communication handling  
+
+🔹 **Full Stack App**  
+→ Secure APIs + frontend + auth (JWT)  
+
+🔹 **High Volume Data Processor**  
+→ Handles large JSON data efficiently (GB-scale thinking)  
+
+---
+
+## 📫 Reach Me
+[LinkedIn](https://www.linkedin.com/in/nishant-kadivar-312758107/) • [Twitter](https://twitter.com/kadivar_nishant)
+
+---
+
+⭐ *I like building things that scale*# Hi 👋 I'm Nishant
+
+💻 Full Stack Developer (Java + Spring Boot)  
+⚙️ Building scalable systems & microservices  
+🚀 Interested in system design & high-performance backends  
+
+---
+
+## 🛠️ Tech I Use
+Java • Spring Boot • Microservices • REST APIs  
+React • JavaScript  
+Docker • Azure • MySQL • MongoDB  
+
+---
+
+## ⚡ Cool Stuff I've Built
+
+🔹 **Microservices System**  
+→ Fault-tolerant services with retries & communication handling  
+
+🔹 **Full Stack App**  
+→ Secure APIs + frontend + auth (JWT)  
+
+🔹 **High Volume Data Processor**  
+→ Handles large JSON data efficiently (GB-scale thinking)  
+
+---
+
+## 📫 Reach Me
+[LinkedIn](https://www.linkedin.com/in/nishant-kadivar-312758107/) • [Twitter](https://twitter.com/kadivar_nishant)
+
+---
+
+⭐ *I like building things that scale*# Hi 👋 I'm Nishant
+
+💻 Full Stack Developer (Java + Spring Boot)\
+⚙️ Building scalable systems & microservices\
+🚀 Interested in system design & high-performance backends
+
+---
+
+## 🛠️ Tech I Use
+
+Java • Spring Boot • Microservices • REST APIs\
+React • JavaScript\
+Docker • Azure • MySQL • MongoDB
+
+##
+
+---
+
+## 📫 Reach Me
+
+[LinkedIn](https://www.linkedin.com/in/nishant-kadivar-312758107/) • [Twitter](https://twitter.com/kadivar_nishant)
+
+---
+
+⭐ *I like building things that scale*
+eb applications using modern technologies.
 
 ---
 
